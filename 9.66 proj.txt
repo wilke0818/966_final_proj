@@ -1,0 +1,59 @@
+1. white male
+2. asian female
+3. white female
+4. black female
+5. latino male
+6. black male
+7. asian male
+8. latina female
+
+decrease eyes:
+1. 3
+2. 5
+3. 5
+4. 5
+5. 3
+6. 4
+7. 3
+8. 6
+
+
+decrease jawline
+1. 4
+2. 5
+3. 5
+4. 4
+5. 4
+6. 4
+7. 3
+8. 6
+
+increase eyes:
+1. 4
+2. 5
+3. 5
+4. 4
+5. 3
+6. 4
+7. 3
+8. 6
+
+increase jawline:
+1. 5
+2. 4/5
+3. 6
+4. 4
+5. 4
+6. 4
+7. 2
+8. 6
+
+control:
+1. 4
+2. 4
+3. 5
+4. 4
+5. 4
+6. 4
+7. 3/4
+8. 6
